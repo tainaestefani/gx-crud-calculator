@@ -63,7 +63,7 @@ Este projeto exemplifica o desenvolvimento de um sistema de cadastro e uma calcu
 ## 🔧 Como Executar o Projeto
 1. Clone este repositório com o comando:
 ```
-git clone https://github.com/seu-usuario/sistema-cadastro-calculadora-genexus.git
+git clone https://github.com/tainaestefani/gx-crud-calculator.git
 ```
 2. Importe o Projeto no GeneXus:
 - Abra o GeneXus.

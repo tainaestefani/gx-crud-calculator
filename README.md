@@ -47,14 +47,35 @@ Este projeto exemplifica o desenvolvimento de um sistema de cadastro e uma calcu
 - Opção para remover registros de municípios do sistema.
 
 ### Relatórios
-- Pessoas por Município e Estado de Nascimento:
+**Pessoas por Município e Estado de Nascimento:**
 - Relatório com filtros para município e estado de nascimento.
-- Pessoas por Município e Estado de Moradia:
+
+**Pessoas por Município e Estado de Moradia:**
 - Relatório com filtros para município e estado de moradia.
 
 ### Calculadora
-Operações Básicas:
+**Operações Básicas:**
 - Soma
 - Subtração
 - Mltiplicação
 - Divisão
+
+## 🔧 Como Executar o Projeto
+1. Clone este repositório com o comando:
+```
+git clone https://github.com/seu-usuario/sistema-cadastro-calculadora-genexus.git
+```
+2. Importe o Projeto no GeneXus:
+- Abra o GeneXus.
+- Vá para File > Import > KB from File e selecione o arquivo .gxz.
+3. Configure o Ambiente:
+- Configure as conexões de banco de dados e outras dependências necessárias.
+4. Execute o Projeto:
+- Configure o ambiente e execute o projeto para visualizar e utilizar as funcionalidades de CRUD e a calculadora.
+
+## 🧑‍💻 Autor
+[<img alt="Profile Pic" src="https://avatars.githubusercontent.com/u/154456749?v=4" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
+
+### License/Licença
+The MIT License (MIT).
+Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.

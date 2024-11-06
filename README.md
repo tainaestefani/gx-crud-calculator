@@ -1,7 +1,7 @@
 # Sistema de Cadastro e Calculadora GeneXus
 Este projeto exemplifica o desenvolvimento de um sistema de cadastro e uma calculadora utilizando **GeneXus**, uma plataforma **low-code**. Inclui operações de CRUD (Criar, Ler, Atualizar e Deletar) para pessoas, estados e municípios, além de relatórios detalhados e uma calculadora com operações básicas.
 
-## Funcionalidades do Projeto
+## 🔨 Funcionalidades do Projeto
 
 ### Tela de Login
 - **Objetivo:** Proteger o acesso ao sistema.
